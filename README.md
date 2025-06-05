@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Robotics Student From Germany.
-- 👀 I’m interested in robotics, machine learning, and control systems.
-- 🌱 I’m currently learning advanced robotics, machine vision, and autonomous systems.
-- 💞️ I’m looking to collaborate on robotics, ML/DL-based automation, and control system optimization projects.
-- 📫 How to reach me: You can reach me via GitHub or email at jenit.goti@icloud.com.
+- 👀 I’m interested in robotics, ML/DL, control systems  also love GUIdevelopment using JavaScript,Qt,Tkinter.
+- 🌱 I’m currently learning advanced robotics,3D machine vision,and Deep Learning using Tensorflow and pyTorch(learning).
+- 💞️ I love turning machine learning prototypes into deployable, real-world tools.
+- 📫 How to reach me at jenit.goti@icloud.com.
 
 
 <!---
