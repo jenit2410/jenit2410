@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jenit2410
+- 👋 Hi, I’m jenit goti
 - 👀 I’m interested in robotics, machine learning, and control systems.
 - 🌱 I’m currently learning advanced robotics, machine vision, and autonomous systems.
 - 💞️ I’m looking to collaborate on robotics, AI-based automation, and control system optimization projects.
