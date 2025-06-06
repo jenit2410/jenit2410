@@ -1,4 +1,11 @@
-- 👋 Hi, I’m Robotics Student From Germany.
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=90&duration=4000&pause=2000&lines=Hi+There!+👋;I’m+Robotics+Student+From+Germany;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+</h1>
+
+
+
 - 👀 I’m interested in robotics, ML/DL, control systems  also love GUI development using JavaScript, Qt, Tkinter.
 - 🌱 I’m currently learning advanced robotics, ROS2, 3D machine vision,and Deep Learning using Tensorflow and pyTorch(learning).
 - 💞️ I love turning machine learning prototypes into deployable, real-world tools.
