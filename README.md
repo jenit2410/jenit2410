@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=90&duration=4000&pause=2000&lines=Hi+There!+👋;I’m+Robotics+Student+From+Germany;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=2b6cb0&width=600&height=90&duration=4000&pause=2000&lines=Hi+There!+👋;I’m+Robotics+Student+From+Germany;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 </h1>
 
 
