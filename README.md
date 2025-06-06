@@ -13,12 +13,9 @@
 
 
 
-<p>
-  <img align="center" style="border: none; outline: none; box-shadow: none; margin: 0; padding: 0; background: none;" src="https://github-readme-stats.vercel.app/api?username=jenitgoti&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&icon_color=ffffff&border_color=0D1117" alt="jenitgoti" />
-
-  <img align="top" style="border: none; outline: none; box-shadow: none; margin: 0; padding: 0; background: none; " src="https://github-readme-stats.vercel.app/api/top-langs?username=jenitgoti&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=ffffff&border_color=0D1117" alt="jenitgoti" />
-</p>
-<br/>
+<a href="https://github.com/jenitgoti/github-readme-stats"><img alt="Jenit Goti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jenitgoti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jenitgoti/github-readme-stats"><img alt="Jenit Goti 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenitgoti&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
